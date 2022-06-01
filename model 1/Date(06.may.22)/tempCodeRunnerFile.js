@@ -1,0 +1,1 @@
+fs.rmdirSync("New Folder");
